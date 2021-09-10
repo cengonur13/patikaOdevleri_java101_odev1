@@ -1,0 +1,2 @@
+# patikaOdevleri_java101_odev1
+java101_odev1
